@@ -1,2 +1,2 @@
-Written on Eclipse MARS 4.5.0  
+Written on Eclipse version: Mars.2 Release (4.5.2) 
 Some features: SignIn, SignOut, SignUp, Decentralization, Display phones in grid view, Add phones to cart, Manage users,...
